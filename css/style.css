@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #F9F5EB;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #002B5B;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #002B5B;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #EA5455;
+}
+.top-container{
+    background-color: #E4DCCF;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 170px auto;
+    text-align: left;
+    line-height: 2;
+}
+.soccer-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.computer-image{
+    width: 25%;
+    float: right;
+
+}
+.a {
+    margin-left: 30%;
+}
+.b{
+    margin-left: 30%;
+}
+.btn {
+    background: #ff5e63;
+    background-image: -webkit-linear-gradient(top, #ff5e63, #6e3033);
+    background-image: -moz-linear-gradient(top, #ff5e63, #6e3033);
+    background-image: -ms-linear-gradient(top, #ff5e63, #6e3033);
+    background-image: -o-linear-gradient(top, #ff5e63, #6e3033);
+    background-image: linear-gradient(to bottom, #ff5e63, #6e3033);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: 'Montserrat', sans-serif;
+    color: #F9F5EB;
+    font-size: 20px;
+    padding: 10px 17px 9px 15px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ab4448;
+    background-image: -webkit-linear-gradient(top, #ab4448, #ab4446);
+    background-image: -moz-linear-gradient(top, #ab4448, #ab4446);
+    background-image: -ms-linear-gradient(top, #ab4448, #ab4446);
+    background-image: -o-linear-gradient(top, #ab4448, #ab4446);
+    background-image: linear-gradient(to bottom, #ab4448, #ab4446);
+    text-decoration: none;
+  }
+hr {
+    border-style: dotted none none none;
+    width: 5%;
+    border-color: #E4DCCF;
+    border-width: 5px;
+    padding: 30px auto;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.bottom-container{
+    line-height: 4;
+    background-color:  #E4DCCF;
+    padding: 50px 0 20px;
+}
+.intro{
+    padding: 30px 0;
+}
+p{
+    line-height: 2;
+}
+.message{
+    margin: 40px auto 60px;
+}
+a{
+    color:#002B5B;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #1c67be;
+}
+.copyright{
+    color:#F9F5EB;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
